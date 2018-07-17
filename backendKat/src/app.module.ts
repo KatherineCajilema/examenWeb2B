@@ -20,7 +20,7 @@ import { UsuarioController } from './usuario/usuario.controller';
       port: 3306,
       username: 'root',
       password: '',
-      database: 'examenweb2bim',
+      database: 'prueba',
       entities: [__dirname + '/../**/*.entity{.ts,.js}'],
       synchronize: true,
       options: { encrypt: true },
